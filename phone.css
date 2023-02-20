@@ -20,6 +20,7 @@
     flex-direction: column;
     gap: 4rem;
   }
+
 }
 
 @media screen and (max-width: 1400px) {

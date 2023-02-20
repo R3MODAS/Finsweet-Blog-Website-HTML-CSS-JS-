@@ -618,6 +618,10 @@ span {
 }
 
 
+.logo-container::-webkit-scrollbar {
+  display: none;
+}
+
 /* =========== Testimonial Container =========== */
 
 .test-container{
