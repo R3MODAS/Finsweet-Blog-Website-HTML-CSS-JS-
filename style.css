@@ -615,8 +615,9 @@ span {
 .logo-container{
   margin: 100px 40px;
   overflow: scroll;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
 }
-
 
 .logo-container::-webkit-scrollbar {
   display: none;
