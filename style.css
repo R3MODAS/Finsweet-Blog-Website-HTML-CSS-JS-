@@ -97,11 +97,11 @@ p {
 
 #title {
   font-weight: 600;
-  font-size: 30px;
+  font-size: 23px;
 }
 
 .bracket {
-  font-size: 32px;
+  font-size: 1.5rem;
 }
 
 .navbar-toggler,
@@ -623,10 +623,6 @@ span {
   display: none;
 }
 
-.logo-container img{
-  width: 90%;
-}
-
 /* =========== Testimonial Container =========== */
 
 .test-container{
@@ -815,12 +811,6 @@ footer .footer-middle .form input{
   font-weight: 400;
   font-size: 15px;
   line-height: 28px;
-  outline: none;
-  transition: all 0.3s ease;
-}
-
-footer .footer-middle .form input:focus{
-  outline: 1px solid var(--color2);
 }
 
 .footer-bottom{
@@ -833,8 +823,7 @@ footer .footer-middle .form input:focus{
   line-height: 25px;
   font-size: 16px;
   font-weight: 400;
-  color: hsla(0, 0%, 100%, 0.534);
-  font-family: var(--font2);
+  color: hsla(0, 0%, 100%, 0.699);
 }
 
 .footer-bottom .socials{
