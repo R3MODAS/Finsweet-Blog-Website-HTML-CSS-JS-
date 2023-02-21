@@ -144,6 +144,16 @@
 }
 
 @media screen and (max-width: 992px) {
+
+  #title {
+    font-weight: 600;
+    font-size: 23px;
+  }
+  
+  .bracket {
+    font-size: 1.5rem;
+  }
+
   .nav-box {
     position: absolute;
     background-color: var(--color1);
